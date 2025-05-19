@@ -7,7 +7,7 @@
   "use_mbasic": "Use basic version of Facebook",
   "use_mbasic_desc": "It works better on older devices or slower connections",
   "recent_first": "Show recent posts first",
-  "hide_all_ads": "Hide ads",
+  "hide_ads": "Hide ads",
   "style": "style",
   "dark_theme": "Enable dark theme",
   "fixed_bar": "Fixed top bar",
